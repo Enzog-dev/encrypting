@@ -6,6 +6,12 @@
 
 ---
 
+## 🌱 Um Marco na Minha Jornada
+
+**Este foi o meu primeiríssimo projeto de TI.** Por ser o meu ponto de partida no desenvolvimento web, a estilização (CSS) e a arquitetura do código podem não refletir as melhores práticas ou a otimização que aplico aos meus projetos atuais. Faço questão de mantê-lo no portfólio exatamente como foi entregue, pois ele documenta de forma honesta os meus primeiros passos na lógica de programação e na construção de interfaces.
+
+---
+
 ## 📌 Visão Geral
 
 O **Encrypting** é uma aplicação web responsiva projetada para fornecer serviços gratuitos de criptografia e descriptografia de textos. O objetivo do projeto foi criar uma ferramenta com interface intuitiva e visual minimalista para fins acadêmicos e educacionais, permitindo que os usuários compreendam na prática o funcionamento de cifras clássicas e codificações.
